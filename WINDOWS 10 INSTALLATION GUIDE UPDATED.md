@@ -1,4 +1,4 @@
-Windows 10 Installation Guide, by [God Bennett](https://github.com/JordanMicahBennett). 
+Windows 10 Installation Guide, by [Cosmos Bennett](https://github.com/JordanMicahBennett). 
 ===========
 
 Firstly, thanks to the [author](https://github.com/koriavinash1) for the hard work on DeepBrainSeg!
