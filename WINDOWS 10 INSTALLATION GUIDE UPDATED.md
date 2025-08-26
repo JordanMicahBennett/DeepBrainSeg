@@ -5,7 +5,7 @@ Firstly, thanks to the [author](https://github.com/koriavinash1) for the hard wo
 
 Albeit, the DeepBrainSeg Library does not facilitate straight-forward Windows 10 installation. The example images [in the original repository](https://github.com/koriavinash1/DeepBrainSeg/) are Mac based screens/frames, and [the code in the original repository also has Mac based programming comments](https://github.com/koriavinash1/DeepBrainSeg/blob/master/ui/DeepBrainSegUI.py), like "/usr/bin/env python", which seems to indicate that Mac was used for development of this product. 
 
-That said, here is a Windows 10 Guide, by [myself](https://github.com/JordanMicahBennett). If anyone faces any issues, let me know. ([For those curious why God Bennett is commenting from Jordan's profile, I legally changed my name from Jordan to Cosmos](https://jamaica-gleaner.com/article/news/20250409/bold-step-towards-future-ready-education)).
+That said, here is a Windows 10 Guide, by [myself](https://github.com/JordanMicahBennett). If anyone faces any issues, let me know. ([For those curious why Cosmos Bennett is commenting from Jordan's profile, I legally changed my name from Jordan to Cosmos](https://jamaica-gleaner.com/article/news/20250409/bold-step-towards-future-ready-education)).
 
 ![image](https://github.com/JordanMicahBennett/DeepBrainSeg/blob/master/DeepBrainSegUI-running-on-Windows-10.gif)
 **Figure_0**: DeepBrainSeg starting up on Windows 10.
